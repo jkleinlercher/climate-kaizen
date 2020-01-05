@@ -31,10 +31,11 @@ Können wir eine App / Webseite entwickeln, die diesen Verbesserungsprozess unte
 - Auswertungen, wo man die Auswirkungen seiner Veränderung/Verbesserung sieht, daraus lernen kann und motiviert wird weiterzumachen
 - Austausch mit anderen / Gameification in unterschiedlichen Bereichen (Quiz, Duell, ..)
 
-# Wichtige Rahmenbedingungen
+# Rahmenbedingungen
 
-- alles freiwillig und privat, wenn gewollt.
+- alles freiwillig und alle Daten privat
 - öffentlich, open-source, wissenschaftlich fundiert
+- Anregen iterativ kleine Verbesserungen zu machen, statt radikale Veränderungen 
 
 # Andere interessante Webseiten und Apps
 
