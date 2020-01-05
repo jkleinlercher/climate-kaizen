@@ -1,11 +1,14 @@
 # Motivation
 
-97% der Wissenschafter bestätigen dass die Klimakrise real ist. Dabei geht es nicht darum, dass der Mensch  der Erde hilft, damit sie weiter existiert, sondern wir müssen unsere Lebensgewohnheiten ändern, damit wir und zukünftige Generationen weiterhin auf dieser Erde leben können. Deshalb sind wir alle aufgefordert etwas zu tun.
+97% der Wissenschafter bestätigen dass die Klimakrise real ist. Dabei geht es nicht darum, dass der Mensch  der Erde hilft, damit sie weiter existiert. Vielmehr müssen wir unsere Lebensgewohnheiten ändern, damit wir und zukünftige Generationen weiterhin auf dieser Erde leben können. Deshalb sind wir alle aufgefordert etwas zu tun.
 
-## Wie schafft man es seine Gewohnheiten zu ändern?
+Ich bin kein Klimaexperte, aber vlt. können Praktiken aus der agilen Softwareentwicklung einen kleinen Beitrag dazu leisten.
 
-In den agilen Softwareentwicklungsmethoden reden wir oft von einem kontinuierlichem Verbesserungsprozess bzw einer Verbesserungskultur. Kann man diese Praktiken umlegen, damit Menschen laufend ihre Gewohnheiten verbessern?
-Worum gehts dabei?
+# Wie schafft man es seine Gewohnheiten zu ändern?
+
+In den agilen Softwareentwicklungsmethoden reden wir oft von einem kontinuierlichem Verbesserungsprozess bzw einer Verbesserungskultur (Kaizen, PDCA, ...). Kann man diese Praktiken auch umwandeln, damit Menschen leichter ihre Gewohnheiten in der Klimakrise verbessern?
+
+Worum gehts dabei? ich würde es aktuell so anlegen:
 
 - Wissen aneignen
 - aktuellen Status sichtbar machen
@@ -14,13 +17,26 @@ Worum gehts dabei?
 - daraus lernen
 - von vorne beginnen
 
+Im Demingkreis redet man auch von Plan-Do-Check-Act (siehe https://kanbanize.com/de/lean-management-de/verbesserung/was-ist-pdca-zyklus/).
+
+# Hilfestellung in einer App
+
+Können wir eine App / Webseite entwickeln, die diesen Verbesserungsprozess unterstützt? Was brauchen wir dazu:
+
+- Lernportal, wo man sich informieren kann und Wissen aneignen kann (ähnlich zu Microkursen in Klimaaktiv-App)
+- Datenbank, wo man seine Gewohnheiten, aktuellen CO2-Verbrauch usw eintragen kann
+- Regelwerk, wo sein aktueller Status bewertet wird und Verbesserungsvorschläge gemacht werden
+- Auswertungen, wo man die Auswirkungen seiner Veränderung/Verbesserung sieht, daraus lernen kann und motiviert wird weiterzumachen
+- Austausch mit anderen / Gameification in unterschiedlichen Bereichen (Quiz, Duell, ..)
+
 # Wichtige Rahmenbedingungen
 
-- alles freiwillig und privat
+- alles freiwillig und privat, wenn gewollt.
 - öffentlich, open-source, wissenschaftlich fundiert
 
+# Andere interessante Webseiten und Apps
 
-# Links to existing apps
+Bitte ergänzen. Gibt es schon andere Projekte, die ähnliches verfolgen?
 
 - https://co2-rechner.at
 - https://www.klimaaktiv.at/ueber-uns/aktuelles/klimaaktiv_app.html
