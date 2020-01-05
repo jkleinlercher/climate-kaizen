@@ -4,6 +4,8 @@
 
 Ich bin kein Klimaexperte, aber vlt. können Praktiken aus der agilen Softwareentwicklung einen kleinen Beitrag dazu leisten.
 
+Ich würde dieses Projekt gern dazu nutzen Ideen zu sammeln, zu diskutieren, und im besten Fall natürlich auch um etwas zu entwickeln. Jeder ist herzlich dazu eingeladen, etwas beizutragen!
+
 # Wie schafft man es seine Gewohnheiten zu ändern?
 
 In den agilen Softwareentwicklungsmethoden reden wir oft von einem kontinuierlichem Verbesserungsprozess bzw einer Verbesserungskultur (Kaizen, PDCA, ...). Kann man diese Praktiken auch umwandeln, damit Menschen leichter ihre Gewohnheiten in der Klimakrise verbessern?
@@ -25,7 +27,7 @@ Können wir eine App / Webseite entwickeln, die diesen Verbesserungsprozess unte
 
 - Lernportal, wo man sich informieren kann und Wissen aneignen kann (ähnlich zu Microkursen in Klimaaktiv-App)
 - Datenbank, wo man seine Gewohnheiten, aktuellen CO2-Verbrauch usw eintragen kann
-- Regelwerk, wo sein aktueller Status bewertet wird und Verbesserungsvorschläge gemacht werden
+- Regelwerk, wo sein aktueller Status bewertet wird und Verbesserungsvorschläge gemacht werden. Die Regeln dazu müssen von Wissenschaftern eingepflegt werden können.
 - Auswertungen, wo man die Auswirkungen seiner Veränderung/Verbesserung sieht, daraus lernen kann und motiviert wird weiterzumachen
 - Austausch mit anderen / Gameification in unterschiedlichen Bereichen (Quiz, Duell, ..)
 
