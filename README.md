@@ -21,6 +21,7 @@ Worum gehts dabei? ich würde es aktuell so anlegen:
 
 Im Demingkreis redet man auch von Plan-Do-Check-Act (siehe https://kanbanize.com/de/lean-management-de/verbesserung/was-ist-pdca-zyklus/).
 
+Dass man sich privat schwer tut Verbesserungen einzuschätzen zeigt der Artikel https://www.klimafakten.de/meldung/umweltverbaende-und-umweltbundesamt-halten-augenscheinlich-wenig-von-gutem-marketing .
 # Hilfestellung in einer App
 
 Können wir eine App / Webseite entwickeln, die diesen Verbesserungsprozess unterstützt? Was brauchen wir dazu:
