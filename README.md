@@ -26,7 +26,7 @@ Im Demingkreis redet man auch von Plan-Do-Check-Act (siehe https://kanbanize.com
 Können wir eine App / Webseite entwickeln, die diesen Verbesserungsprozess unterstützt? Was brauchen wir dazu:
 
 - Lernportal, wo man sich informieren kann und Wissen aneignen kann (ähnlich zu Microkursen in Klimaaktiv-App)
-- Datenbank, wo man seine Gewohnheiten, aktuellen CO2-Verbrauch usw eintragen kann
+- Datenbank, wo man seine Gewohnheiten, aktuellen CO2-Verbrauch usw manuell eintragen oder automatisch erfassen kann
 - Regelwerk, wo sein aktueller Status bewertet wird und Verbesserungsvorschläge gemacht werden. Die Regeln dazu müssen von Wissenschaftern eingepflegt werden können.
 - Auswertungen, wo man die Auswirkungen seiner Veränderung/Verbesserung sieht, daraus lernen kann und motiviert wird weiterzumachen
 - Austausch mit anderen / Gameification in unterschiedlichen Bereichen (Quiz, Duell, ..)
